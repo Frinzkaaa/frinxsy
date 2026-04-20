@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer (Laravel & Next.js)</h3>
 
 <p align="center">
-building real-world web apps • clean UI • performance matters 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+real-world+web+apps;Turning+ideas+into+products;Always+learning+🚀" />
 </p>
 
 ---
@@ -14,7 +14,7 @@ building real-world web apps • clean UI • performance matters 🚀
 - Laravel, Midtrans, Google OAuth  
 - Multi-role dashboard (Admin & Mitra)  
 
-🔗 https://pplg.web.id/
+👉 [Book Trip ✈️](https://pplg.web.id/)
 
 ---
 
@@ -22,7 +22,7 @@ building real-world web apps • clean UI • performance matters 🚀
 - Web lelang dengan sistem bidding interaktif  
 - Next.js, PostgreSQL (Neon), Vercel  
 
-🔗 https://tawar-duluan.vercel.app/
+👉 [Gas Nawar 💰](https://tawar-duluan.vercel.app/)
 
 ---
 
@@ -30,13 +30,32 @@ building real-world web apps • clean UI • performance matters 🚀
 - Platform layanan digital untuk umrah & haji  
 - React, Next.js  
 
-🔗 https://sahaba-web.vercel.app/user
+👉 [Explore App](https://sahaba-web.vercel.app/user)
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,next,laravel,php,postgres,mysql,git,vercel" />
+</p>
+
+---
+
+## ⚡ Interactive Zone
+<p align="center">
+
+<a href="https://tawar-duluan.vercel.app/">
+  <img src="https://img.shields.io/badge/Try%20Auction%20App-00F7FF?style=for-the-badge" />
+</a>
+
+<a href="https://pplg.web.id/">
+  <img src="https://img.shields.io/badge/Open%20Voyago-111?style=for-the-badge" />
+</a>
+
+<a href="mailto:frinzkadesfrilia12@gmail.com">
+  <img src="https://img.shields.io/badge/Contact%20Me-ff69b4?style=for-the-badge" />
+</a>
+
 </p>
 
 ---
@@ -48,9 +67,7 @@ building real-world web apps • clean UI • performance matters 🚀
 
 ---
 
-## 📫 Connect with me
+## 📊 GitHub Activity
 <p align="center">
-<a href="mailto:frinzkadesfrilia12@gmail.com">Email</a> • 
-<a href="https://github.com/Frinzkaaa">GitHub</a> • 
-<a href="https://linkedin.com/in/frinzka-desfrilia">LinkedIn</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Frinzkaaa&theme=tokyonight&hide_border=true" />
 </p>
