@@ -1,5 +1,11 @@
 <h1 align="center">frinzka@github:~$</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=booting+portfolio...;loading+projects...;initializing+full-stack+mode...;welcome+to+frinzka.dev+🚀" />
+</p>
+
+---
+
 ```bash
 > login frinzka
 
@@ -10,6 +16,11 @@ frinzka_desfrilia
 
 > role
 full-stack web developer (laravel & next.js)
+
+> about --me
+i build real-world web apps  
+focused on performance, usability, and clean UI  
+lowkey obsessed with turning ideas into working products 💻  
 
 > skills --list
 - laravel
@@ -23,21 +34,23 @@ full-stack web developer (laravel & next.js)
 > projects --load
 loading...
 
-[1] voyago → travel booking platform (like traveloka)
+[1] voyago → travel booking platform (traveloka-inspired)
 [2] tawar-duluan → auction web app (bidding system)
 [3] sabaha → umrah service platform
+
+> open project 1
+🔗 https://github.com/USERNAMEKAMU/voyago
 
 > open project 2
 🔗 https://tawar-duluan.vercel.app/
 
+> open project 3
+🔗 https://github.com/USERNAMEKAMU/sabaha
+
+> sudo hire frinzka
+permission granted ✅
+
 > status
-building. learning. improving. 🚀
+building. learning. improving. leveling up 🚀
 
 > exit
-
-```md
-### 💬 try commands:
-- `open project 1`
-- `open project 2`
-- `skills --list`
-- `whoami`
