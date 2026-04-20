@@ -49,11 +49,8 @@ Digital service platform for Umrah & Hajj needs
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Frinzkaaa&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
 <img src="https://streak-stats.demolab.com?user=Frinzkaaa&theme=tokyonight&hide_border=true" />
+
 ---
 
 ## 🌐 Connect with Me
