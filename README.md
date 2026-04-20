@@ -1,4 +1,4 @@
-<h1 align="center">frinzka@github:~$</h1>
+<h1 align="center">frinzka</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=booting+portfolio...;loading+projects...;initializing+full-stack+mode...;welcome+to+frinzka.dev+🚀" />
@@ -10,6 +10,11 @@
 <a href="https://github.com/Frinzkaaa"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/frinzka-desfrilia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+## 🚀 projects links
+- [voyago](https://pplg.web.id/)
+- [tawar duluan](https://tawar-duluan.vercel.app/)
+- [sabaha](https://sahaba-web.vercel.app/user)
 
 ---
 
@@ -44,15 +49,6 @@ loading...
 [1] voyago → travel booking platform (traveloka-inspired)
 [2] tawar-duluan → auction web app (bidding system)
 [3] sabaha → umrah service platform
-
-> open project 1
-🔗 https://pplg.web.id/
-
-> open project 2
-🔗 https://tawar-duluan.vercel.app/
-
-> open project 3
-🔗 https://sahaba-web.vercel.app/user
 
 > sudo hire frinzka
 permission granted ✅
