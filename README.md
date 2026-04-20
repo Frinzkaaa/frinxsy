@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer (Laravel & Next.js)</h3>
 
 <p align="center">
-I build modern, scalable web applications with a focus on performance, usability, and real-world problem solving.
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Web+Developer;Laravel+%7C+Next.js;Building+Real+World+Projects🔥" />
 </p>
 
 ---
@@ -50,8 +50,8 @@ Digital service platform for Umrah & Hajj needs
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Frinzkaaa&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?Frinzkaaa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
