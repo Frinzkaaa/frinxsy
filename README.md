@@ -54,3 +54,9 @@ permission granted ✅
 building. learning. improving. leveling up 🚀
 
 > exit
+
+💬 try commands:
+whoami • skills --list • open project 1 • open project 2 • sudo hire frinzka
+
+📫 connect with me
+<p align="center"> <a href="mailto:frinzkadesfrilia12@gmail.com">email</a> • <a href="https://github.com/Frinzkaaa">github</a> • <a href="https://linkedin.com/in/frinzka-desfrilia">linkedin</a> </p> ```
