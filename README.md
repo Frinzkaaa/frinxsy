@@ -41,33 +41,28 @@
 
 ---
 
-## ⚡ Interactive Zone
+## ⚡ About Me
+- suka bikin project yang beneran kepake  
+- belajar lewat praktik langsung  
+- fokus ke full-stack development
+
+## 📫 Let's Connect
 <p align="center">
 
-<a href="https://tawar-duluan.vercel.app/">
-  <img src="https://img.shields.io/badge/Try%20Auction%20App-00F7FF?style=for-the-badge" />
-</a>
-
-<a href="https://pplg.web.id/">
-  <img src="https://img.shields.io/badge/Open%20Voyago-111?style=for-the-badge" />
-</a>
-
 <a href="mailto:frinzkadesfrilia12@gmail.com">
-  <img src="https://img.shields.io/badge/Contact%20Me-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hit%20me%20up%20📩-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Frinzkaaa">
+  <img src="https://img.shields.io/badge/Check%20my%20code%20💻-GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/frinzka-desfrilia">
+  <img src="https://img.shields.io/badge/Let's%20connect%20🤝-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
----
-
-## ⚡ About Me
-- suka bikin project yang beneran kepake  
-- belajar lewat praktik langsung  
-- fokus ke full-stack development  
-
----
-
-## 📊 GitHub Activity
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Frinzkaaa&theme=tokyonight&hide_border=true" />
+open for opportunities & collaborations 🚀
 </p>
