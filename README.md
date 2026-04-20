@@ -39,13 +39,13 @@ loading...
 [3] sabaha → umrah service platform
 
 > open project 1
-🔗 https://github.com/USERNAMEKAMU/voyago
+🔗 https://pplg.web.id/
 
 > open project 2
 🔗 https://tawar-duluan.vercel.app/
 
 > open project 3
-🔗 https://github.com/USERNAMEKAMU/sabaha
+🔗 https://sahaba-web.vercel.app/user
 
 > sudo hire frinzka
 permission granted ✅
