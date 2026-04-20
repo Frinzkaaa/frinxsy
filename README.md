@@ -1,9 +1,25 @@
-<h1 align="center">Hi, I'm Frinzka Desfrilia 👋</h1>
-<h3 align="center">Full-Stack Web Developer (Laravel & Next.js)</h3>
+<h1 align="center">hi, i'm frinzka 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Web+Developer;Laravel+%7C+Next.js;Building+Real+World+Projects🔥" />
+  <i>full-stack web developer • building real-world apps • lowkey obsessed with clean UI</i>
 </p>
+
+---
+
+```bash
+> whoami
+frinzka_desfrilia
+
+> role
+full-stack web developer (laravel & next.js)
+
+> currently_building
+- booking platform (traveloka-style)
+- auction web app (bidding system)
+- real-world fullstack projects
+
+> status
+still learning, still building, still leveling up 🚀
 
 ---
 
